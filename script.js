@@ -42,7 +42,7 @@ var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula"
 // See Lecture 50, part 1
 
 var length = names.length;
-  console.log(length);
+ window.print(length);
 
 for (var i=0; i<=names.length-1; i++ ) {
 
